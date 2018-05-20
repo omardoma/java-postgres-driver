@@ -1,8 +1,8 @@
 # java-postgres-driver
 
-Eclipse Java Project
+A program to query postgres database using Java.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
